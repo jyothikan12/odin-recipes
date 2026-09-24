@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+.title{
+    text-align: center;
+    color:#5C4033;
+    background-color: #F5F5DC;
+    border: 2px solid #5C4033;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.recipes{
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    color:brown;
+    background-color: #F5F5DC;
+    padding: 10px 20px;
+    border: 2px solid brown;
+    width: 400px;
+    margin:0 auto;
+}
+
+.recipes a{
+    font-size: 18px;
+    display:inline-block;
+    color:rgb(100, 15, 15);
+    padding:5px 10px;
+    text-weight:bold;
+    background-color: white;
+}
+
+.main{
+    font-family: 'Dancing Script', cursive;
+    color:#5C4033;
+}
+
+.title{
+    text-align: center;
+    background-color: #F5F5DC;
+    border: 2px solid #5C4033;
+}
+.description{
+    display: flex;
+    align-items: flex-start;
+    font-size: 18px;
+    gap: 20px;
+}
+
+.description img{
+    height:300px;
+    width: 300px;
+    border: 2px solid rgb(104, 13, 13);
+}
+
+.description p{
+    background-color: #F5F5DC;
+    padding: 5px;
+    border : 2px solid #5C4033;
+}
+.sideline{
+    display:inline-block;
+    background-color: #F5F5DC;
+    border:2px solid#5C4033;
+}
